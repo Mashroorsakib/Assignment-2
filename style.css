@@ -1,0 +1,55 @@
+.item-style{
+    font-size: 20px;
+}
+.image{
+    width: 70%;
+    margin-left: 100px;
+}
+.nav-item{
+    margin-right: 30px;
+}
+span{
+    color: orange;
+}
+.main-part{
+    background-color: palegreen;
+}
+.btn-design{
+    background-color: rgb(141, 151, 52);
+   padding:  10px 15px 10px 75px;
+   border-radius: 10px;
+   background-image: url("logo/shopping-cart\ 1.png");
+   background-repeat: no-repeat;
+   background-size: 30px;  
+   background-position: left 20px top 8px ;
+   color: white;
+}
+.text-style{
+    font-size: 25px;
+    font-weight: 700px;
+    padding-left: 20px;
+}
+.img-style{
+    height: 450px;
+    width: 80%;
+    padding-left: 20px;
+}
+.style-container{
+    height: 200px;
+    padding-top: 100px;
+}
+.extra-style{
+    border: none;
+}
+.last-part{
+    height: 70%;
+    width: 70%;
+}
+.img-height{
+    padding-left: 20px;
+    height: 90%;
+    width: 90%;
+}
+.margin-class{
+    padding-top: 150px;
+}
