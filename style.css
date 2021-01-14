@@ -33,6 +33,9 @@ span{
     height: 450px;
     width: 80%;
     padding-left: 20px;
+    background-color: rgb(206, 204, 202);
+    border-radius: 10px;
+    margin: 15px 5px 5px 45px;
 }
 .style-container{
     height: 200px;
@@ -52,4 +55,7 @@ span{
 }
 .margin-class{
     padding-top: 150px;
+}
+.color{
+    background-color: greenyellow;
 }
